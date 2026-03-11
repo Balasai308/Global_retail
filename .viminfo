@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1773242098,,"q!"
 :wq!
-|2,0,1773221018,,"wq!"
+|2,0,1773241948,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,21 +27,82 @@
 # Registers:
 
 # File marks:
-'0  10  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
-|4,48,10,9,1773221041,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+'0  1  0  ~/.gitconfig
+|4,48,1,0,1773242098,"~/.gitconfig"
+'1  8  4  ~/global-retail/.gitignore
+|4,49,8,4,1773241948,"~/global-retail/.gitignore"
+'2  9  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,50,9,9,1773240993,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+'3  1  920  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,51,1,920,1773221041,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+'4  10  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,52,10,9,1773221041,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1773242098,"~/.gitconfig"
+-'  8  4  ~/global-retail/.gitignore
+|4,39,8,4,1773241948,"~/global-retail/.gitignore"
+-'  8  4  ~/global-retail/.gitignore
+|4,39,8,4,1773241948,"~/global-retail/.gitignore"
+-'  1  0  ~/global-retail/.gitignore
+|4,39,1,0,1773241871,"~/global-retail/.gitignore"
+-'  1  0  ~/global-retail/.gitignore
+|4,39,1,0,1773241871,"~/global-retail/.gitignore"
+-'  9  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,9,9,1773240993,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  9  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,9,9,1773240993,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  9  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,9,9,1773240993,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  9  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,9,9,1773240993,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  1  920  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,1,920,1773240815,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  1  920  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,1,920,1773240815,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  1  920  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,1,920,1773240815,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  1  920  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,1,920,1773240815,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
 -'  10  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
 |4,39,10,9,1773221041,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  10  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,10,9,1773221041,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  10  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,10,9,1773221041,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  10  9  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,10,9,1773221041,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  1  0  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,1,0,1773214817,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  1  0  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,1,0,1773214817,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
+-'  1  0  ~/global-retail/src/main/webapp/WEB-INF/web.xml
+|4,39,1,0,1773214817,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
 -'  1  0  ~/global-retail/src/main/webapp/WEB-INF/web.xml
 |4,39,1,0,1773214817,"~/global-retail/src/main/webapp/WEB-INF/web.xml"
 
 # History of marks within files (newest to oldest):
 
+> ~/.gitconfig
+	*	1773242095	0
+	"	1	0
+	^	1	0
+
+> ~/global-retail/.gitignore
+	*	1773241944	0
+	"	8	4
+	^	8	5
+	.	8	4
+	+	8	4
+
 > ~/global-retail/src/main/webapp/WEB-INF/web.xml
-	*	1773221041	0
-	"	10	9
-	^	10	10
-	.	10	10
+	*	1773240989	0
+	"	9	9
+	^	9	10
+	.	9	9
 	+	1	0
-	+	10	10
+	+	1	921
+	+	1	745
+	+	1	688
+	+	9	9
